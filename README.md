@@ -18,3 +18,5 @@ This repository fix some of the problems from the [original HiPrecy](https://git
 * TMC2209 Drivers
 * Dual-Z Motors
 * Bed Induction Probe
+
+! Please note that the process is tested only with Arduino (<v2).
